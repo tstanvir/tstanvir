@@ -1,4 +1,4 @@
-### Hi Devs, I'm Tanvir, an undergrad student from Information & Communication Engineering ,NSTU
+### Hi Devs, I'm Tanvir, an undergrad student from NSTU, major in Information & Communication Engineering. 
 
 
 
