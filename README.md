@@ -1,4 +1,4 @@
-### Hi Devs, I'm Tanvir, another software engineer expertise on Native Android Developer. I did competitive programming back in my undergrad. Here is some stat to look into.
+### Hi Devs, I'm Tanvir, another software engineer expertise on Native Android Development. I did competitive programming back in my undergrad. Here is some stat to look into.
 
 
 
