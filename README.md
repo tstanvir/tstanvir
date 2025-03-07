@@ -1,8 +1,21 @@
-### Hi Devs, I'm Tanvir, another software engineer expertise on Native Android Development. I did competitive programming back in my undergrad. Here is some stat to look into.
+# 👋 Hi, I'm Md Tanvir Hussain
 
+🚀 **Senior Software Engineer** | Samsung R&D Institute Bangladesh  
+💡 Passionate about Android Development, Wear OS, and LLM
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstanvir&show_icons=true&theme=radical)
 
-# MyStats On Competitive Programming
+---
+
+## 🛠 Skills & Technologies
+- **Languages:** Java, Kotlin, C++
+- **Frameworks & Tools:** Android Studio, Git/GitHub, Perforce, Wear OS, ML Kit
+- **Design Patterns:** Singleton, Observer, Factory, Builder
+- **Soft Skills:** Problem Solving, Team Collaboration, Agile Development
+
+---
+
+## 🎯Stats On Competitive Programming
 
 
 | OJ | Username | Solve Count |
@@ -16,5 +29,9 @@
 | UVA | [tstanvir](https://uhunt.onlinejudge.org/id/896306) | 109 |
 | Total | | 2000+ |
 
-### Connect with me:
-[<img align="left" alt="Md Tanvir Hussain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/md-tanvir-hussain-408205143/)
+---
+
+## 🔗 Connect with Me
+📧 [tanvirshossain0@gmail.com](mailto:tanvirshossain0@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/md-tanvir-hussain-408205143/)  
+💻 [GitHub](https://github.com/tstanvir)
